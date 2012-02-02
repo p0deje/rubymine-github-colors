@@ -1,9 +1,0 @@
-Simple GitHub-like color scheme for JetBrains RubyMine IDE.
-
-It uses Consolas font by default, but you are free to change it tow whatever you want.
-
-Installation - just copy github.xml to your RubyMine colors dir.
-  cd rubymine-github-colors
-  cp github.xml ~/.RubyMine31/config/colors
-  
-Select it File -> Settings -> Editor -> Colors & Fonts.
